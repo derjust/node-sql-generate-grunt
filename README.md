@@ -1,6 +1,6 @@
-# grunt-node-sql-generate
+# node-sql-generate-grunt
 
-> The best Grunt plugin ever.
+> A Grunt wrapper around [node-sql-grunt](https://github.com/tmont/node-sql-generate)
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
